@@ -1,1 +1,3 @@
-export * from "./auth/auth-services";
+import { AuthServices } from "./auth-services";
+
+export { AuthServices };
